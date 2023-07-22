@@ -1,0 +1,18 @@
+{
+  "name": "dtr",
+  "version": "4.0.0",
+  "description": "A discord to roblox utility bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "corehimself",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "better-sqlite3": "^8.4.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.11.0",
+    "quick.db": "^9.1.6"
+  }
+}
